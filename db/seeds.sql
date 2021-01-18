@@ -1,6 +1,6 @@
-INSERT INTO burgers (name) VALUES ('Cheese Burger');
-INSERT INTO burgers (name) VALUES ('Whopper');
-INSERT INTO burgers (name, devour) VALUES ('Patty Melt', true);
-INSERT INTO burgers (name, devour) VALUES ('Big Kahuna Burger', true);
-INSERT INTO burgers (name, devour) VALUES ('WhataBurger', true);
-INSERT INTO burgers (name) VALUES ('Big Mac');
+INSERT INTO burgers (burger_name) VALUES ('Cheese Burger');
+INSERT INTO burgers (burger_name) VALUES ('Whopper');
+INSERT INTO burgers (burger_name, devoured) VALUES ('Patty Melt', true);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Big Kahuna Burger', true);
+INSERT INTO burgers (burger_name, devoured) VALUES ('WhataBurger', true);
+INSERT INTO burgers (burger_name) VALUES ('Big Mac');
