@@ -21,6 +21,10 @@ main {
   align-items: center;
 }
 
+#done .change-devour {
+  display: none;
+}
+
 li {
     padding: 5px;
     margin: 5px;
