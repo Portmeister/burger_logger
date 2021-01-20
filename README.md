@@ -6,6 +6,9 @@ Eat-Da-Burger! is a restaurant app that lets users input the names of burgers th
 
 * **This assignment must be deployed.** * Please submit both the deployed Heroku link to your homework AND the link to the Github Repository!
 
+[Application Screenshot](./public/assets/images/eatDaBurger.jpg)
+
+
 ### Hosting on Heroku
 
 Now that we have a backend to our applications, we use Heroku for hosting. Please note that while **Heroku is free**, it will request credit card information if you have more than 5 applications at a time or are adding a database.
