@@ -7,7 +7,7 @@ Eat-Da-Burger! is a restaurant app that lets users input the names of burgers th
 ## Deployment
 
 - Github Repository: https://github.com/Portmeister/burger_logger
-- Heroku Deployment: 
+- Heroku Deployment: https://eat-da-burger6.herokuapp.com/
 
 ## Application View
 
